@@ -2,7 +2,7 @@
 This is An iPhone Application which can count days , minute and second from the started time its work on background
 <hr>
 <br>
- APP ICON : <br>
+  APP ICON : <br>
  <img src="https://github.com/RajendraPandit1/TimeOut/assets/75786029/a1db86b4-06c5-4936-9997-88fc79a567c2" height="100">
  <hr>
   <br>
