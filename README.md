@@ -1,5 +1,5 @@
 # TimeOut
-This is An iPhone Application which can count days , minute and second from the started time its work on background
+This is An iPhone Application which can count days , minute and second from the started time . its work on background
 <hr>
 <br>
   APP ICON : <br>
